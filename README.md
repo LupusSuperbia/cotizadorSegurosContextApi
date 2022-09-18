@@ -1,4 +1,4 @@
-# cotizadorSegurosContextApi
+# Cotizador Seguros Context API React TailwindCss 
 Cotizador de seguros para auto hecho con react aprendiendo CONTEXT API
 
 Aprendiendo REACT con UDEMY Juan Pablo de la torre Valdez, 
